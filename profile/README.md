@@ -4,6 +4,31 @@
 O Doctor Smart é uma plataforma projetada para conectar indivíduos a médicos qualificados em sua área. O aplicativo permite que os usuários pesquisem médicos com base em especialidades, localização, avaliações e outros critérios. Ao fornecer um banco de dados abrangente de profissionais de saúde, o projeto tem como objetivo tornar a saúde mais acessível e transparente para todos.
 
 ### Funcionalidades:
+
+#### Benefícios para Pacientes:
+- Avaliação pública de profissionais.
+- Confirmações de consultas.
+- Agilidade na realização de teleconsultas.
+- Lembretes automáticos de consultas.
+- Acesso à carteira de saúde digital personalizada.
+- Prontuário compartilhado com outros profissionais autorizados.
+
+#### Benefícios para Médicos:
+- SEO avançado para maior visibilidade.
+- Prontuário unificado acessível.
+- Avaliação profissional por pacientes.
+- Posicionamento estratégico no Google.
+- Ficha técnica detalhada de pacientes.
+- Inteligência Artificial integrada ao prontuário.
+- Publicidade personalizada e campanhas exclusivas.
+- Criação de catálogos e portfólios de serviços médicos.
+- Destaque como um dos melhores profissionais da plataforma.
+
+#### Funcionalidades Gerais:
+- Pesquisa de médicos por especialidade, localização e disponibilidade.
+- Visualização de perfis detalhados, incluindo qualificações, experiência e avaliações de pacientes.
+- Interface amigável para navegação rápida e fácil.
+- Comunicação segura para consultas e agendamento de consultas.
 - Pesquisa de médicos por especialidade, localização e disponibilidade.
 - Visualização de perfis detalhados, incluindo qualificações, experiência e avaliações de pacientes.
 - Interface amigável para navegação rápida e fácil.
@@ -35,3 +60,4 @@ Atualmente, o Doctor Smart está em desenvolvimento ativo. Estamos trabalhando p
 ---
 
 Obrigado pelo seu interesse no Doctor Smart. Acompanhe nosso progresso para ver como estamos transformando a forma como as pessoas encontram médicos!
+
